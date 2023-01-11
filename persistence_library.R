@@ -1,7 +1,5 @@
 
-require(ncdf4); require(lubridate); require(cluster); require(MASS)
-source('/scratch3/atuel/Code/R/myLibrary.R')
-source('/scratch3/atuel/Code/R/clustering_library.R')
+require(ncdf4); require(lubridate); require(MASS)
 
 ### EOF ANALYSIS ###
 
